@@ -25,3 +25,9 @@ jobs:
       - name: Run scraper
         run: |
           python scrape.py
+
+      - name: Upload JSON file
+        uses: actions/upload-artifact@v3
+        with:
+          name: combined-articles
+          path: combined_articles.json
