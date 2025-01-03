@@ -50,5 +50,6 @@ The program will scrape articles from the following sources:
 It will categorize each article using a zero-shot classification model and save the results into a `combined_articles.json` file.
 
 ## GitHub Workflows
+![image](https://github.com/user-attachments/assets/d53c0fc8-67c6-4ed4-b893-945a9cf6d45a)
 
 This repository uses **GitHub workflows** to automate tasks such as running the scrapers on a schedule. These workflows ensure that the scraper runs at regular intervals without manual intervention, providing up-to-date news data.
