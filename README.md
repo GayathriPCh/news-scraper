@@ -1,7 +1,7 @@
 # News Scraper
 
 This project scrapes news articles from multiple sources, including Vogue, BBC News, and AP News. It classifies the articles into predefined categories (business, political, fashion, tech, sports, entertainment) using a zero-shot classification model. The articles are then saved as a JSON file.
-
+Used for the News Aggregator project : https://github.com/GayathriPCh/Workathon_updated_soc
 ## Features
 
 - **Scrapes News Sources**: Fetches the latest news articles from multiple sources: Vogue, BBC News, and AP News.
